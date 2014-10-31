@@ -1,0 +1,11 @@
+{
+  "name": "bespoke-theme-nebula",
+  "version": "1.0.0",
+  "main": "./dist/bespoke-theme-nebula.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  }
+}

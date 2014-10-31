@@ -1,0 +1,37 @@
+doctype html
+html
+  head
+    title bespoke-theme-nebula
+    meta(name='description', content='A theme for Bespoke.js')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    meta(charset='utf-8')
+
+  style.
+    .orion {
+      background-image: url('images/orion.jpg')
+    }
+
+  body
+
+    article
+
+      section
+        h1 Nebula
+
+      section(data-bespoke-backdrop='orion')
+        h2 A <a href="https://github.com/markdalgleish/bespoke.js">Bespoke.js</a> theme
+
+      section
+        h3 &mdash; Lovingly crafted by &mdash;
+        h2 <a href="https://github.com/markdalgleish">Mark Dalgleish</a>
+
+      section
+        h2.single-words Try the &lsquo;single-words&rsquo; class
+
+      section
+        h2.bullet Enjoy <span class='bullet'>:)</span>
+
+    a(href='https://github.com/markdalgleish/bespoke-theme-nebula')
+      img(style='position: absolute; z-index: 1; top: 0; right: 0; border: 0; width: 25vw; max-width: 149px;', src='http://aral.github.com/fork-me-on-github-retina-ribbons/right-grey@2x.png' alt='Fork me on GitHub')
+
+    script(src='build/build.js')
