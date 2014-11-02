@@ -1,5 +1,5 @@
 /*!
- * bespoke-theme-nebula v1.0.0
+ * bespoke-theme-nebula v1.0.1
  *
  * Copyright 2014, Mark Dalgleish
  * This content is released under the MIT license
