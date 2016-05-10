@@ -4,6 +4,8 @@
 
 A theme for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) &mdash; [View demo](http://markdalgleish.github.io/bespoke-theme-nebula)
 
+You can see this theme in action with this [online presentation](http://bespokejs.github.io/bespoke-theme-nebula/).
+
 ## Download
 
 Download the [production version][min] or the [development version][max], or use a [package manager](#package-managers).
