@@ -2,14 +2,14 @@
 
 # bespoke-theme-nebula
 
-A theme for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) &mdash; [View demo](http://markdalgleish.github.io/bespoke-theme-nebula)
+A theme for [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) &mdash; [View demo](http://bespokejs.github.io/bespoke-theme-nebula)
 
 ## Download
 
 Download the [production version][min] or the [development version][max], or use a [package manager](#package-managers).
 
-[min]: https://raw.github.com/markdalgleish/bespoke-theme-nebula/master/dist/bespoke-theme-nebula.min.js
-[max]: https://raw.github.com/markdalgleish/bespoke-theme-nebula/master/dist/bespoke-theme-nebula.js
+[min]: https://raw.github.com/bespokejs/bespoke-theme-nebula/master/dist/bespoke-theme-nebula.min.js
+[max]: https://raw.github.com/bespokejs/bespoke-theme-nebula/master/dist/bespoke-theme-nebula.js
 
 ## Usage
 
